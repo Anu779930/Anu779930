@@ -83,7 +83,7 @@ Combines **Python modeling**, **SQL preprocessing**, and **Power BI** storytelli
 - Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**  
 - **HackerRank SQL (Intermediate)**  
 - **PCAP: Python Programming Essentials** — Cisco & Python Institute  
-- **Microsoft Fabric Data Engineer Associate** *(in progress)*
+- **Microsoft Fabric Data Engineer Associate**
 
 ---
 
