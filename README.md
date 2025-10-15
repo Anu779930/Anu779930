@@ -1,85 +1,90 @@
-🌟 Venkata Sai Anusha Kommasani
+# 🌟 Venkata Sai Anusha Kommasani
 
-Data Analyst | Power BI | SQL | Python | Machine Learning | Storytelling with Data
+**Data Analyst | Power BI | SQL | Python | Machine Learning | Storytelling with Data**
 
-📍 Minnetonka, MN | 📧 vsanushak234@gmail.com
+📍 Minnetonka, MN  
+📧 [vsanushak234@gmail.com](mailto:vsanushak234@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/venkata-sai-anusha-kommasani) • [GitHub](https://github.com/Anu779930)
 
-🔗 LinkedIn
- | GitHub
+---
 
-👋 About Me
+## 👋 About Me
+Analytical and detail-oriented **Data Analyst** (aspiring **Data Scientist**) who turns raw data into clear, actionable insights.  
+Experienced in **Power BI, SQL, and Python** across the full workflow — from data cleaning and modeling to KPI dashboards and automation.
 
-I’m an analytical and detail-oriented Data Analyst & aspiring Data Scientist with a Master’s in Information Systems and Technologies from the University of North Texas.
+> 💡 *“Data without context is just numbers — I focus on turning numbers into actions.”*
 
-I specialize in turning raw data into meaningful insights using tools like Power BI, SQL, and Python, and I love combining data storytelling with automation to support business decisions.
+---
 
-💡 “Data without context is just numbers — I focus on transforming those numbers into actions.”
+## 🚀 Featured Projects
 
-💼 Featured Projects
-📊 Sales Performance Dashboard
+### # Sales Performance Dashboard – Power BI
+📊 A Power BI dashboard analyzing **sales performance** across regions, categories, and products (Superstore dataset).  
+Includes **SQL preprocessing** and **DAX measures** for KPIs.
 
-Interactive Power BI + Excel dashboard tracking sales KPIs across regions, categories, and time.
+#### 📈 Project Highlights
+- KPI cards for **Total Sales, Total Profit, AOV, Profit Margin %**  
+- Trend analysis of **Sales over Time**  
+- **Profit by Category** and **Sales by Region** comparisons  
+- Top-10 products by sales (SQL + Power BI)  
+- Interactive filters (Year, Region, Category)
 
-Automated monthly reporting using VBA Macros and Power Query.
+#### 🛠️ Tech & Skills Demonstrated
+- **Power BI**: Data cleaning, visuals, DAX, KPI cards  
+- **SQL**: Aggregations, grouping, ranking ([`sql/sales_queries.sql`](https://github.com/Anu779930/sales-performance-dashboard/blob/main/sql/sales_queries.sql))  
+- **DAX**: KPI calculations ([`docs/dax_measures.md`](https://github.com/Anu779930/sales-performance-dashboard/blob/main/docs/dax_measures.md))  
+- **Data storytelling**: Clear layout with slicers
 
-Built SQL queries for data extraction and DAX measures for dynamic KPIs.
+#### 📄 Documentation
+[Download Sales_Performance_KPI_Dashboard_Documentation.docx](https://github.com/Anu779930/sales-performance-dashboard/blob/main/Sales_Performance_KPI_Dashboard_Documentation.docx)
 
-Improved data retrieval and forecasting accuracy by 40%.
-📄 Documentation
+---
 
-📉 Telco Customer Churn Prediction
+### # Telco Customer Churn Prediction – ML + Power BI
+📉 End-to-end **Machine Learning + Business Intelligence** project predicting telecom customer churn.  
+Combines **Python modeling**, **SQL preprocessing**, and **Power BI** storytelling.
 
-End-to-end Machine Learning + Business Intelligence project to predict customer churn and improve retention.
+#### 📈 Project Highlights
+- Cleaned and transformed **7K+ records** (Pandas, NumPy, SQL)  
+- Models: **Logistic Regression, Random Forest, XGBoost** (≈ **85% accuracy**)  
+- Churn drivers: **tenure, monthly charges, contract type**  
+- Automated ETL + scoring pipeline  
+- Power BI dashboard for churn/retention tracking
 
-Applied feature engineering, Logistic Regression, Random Forest, and XGBoost (85% accuracy).
+#### 🛠️ Tech & Skills Demonstrated
+- **Python**: Pandas, NumPy, Scikit-learn, XGBoost  
+- **Power BI**: Churn segmentation visuals, KPIs, slicers  
+- **SQL**: Joins, filtering, feature prep  
+- **Evaluation**: Confusion Matrix, ROC-AUC, Precision/Recall  
+- **MLOps (basic)**: Reproducible pipelines, version control
 
-Integrated Power BI dashboards for business insights and customer segmentation.
+#### 📄 Documentation
+[Download Telco_Churn_Prediction_Retention_Documentation.docx](https://github.com/Anu779930/telco-churn-ml-bi/blob/main/Telco_Churn_Prediction_Retention_Documentation.docx)
 
-Delivered actionable churn prevention recommendations.
-📄 Documentation
+---
 
-🛠️ Technical Skills
+## 🧠 Technical Skills
+- **Programming:** Python, R, C  
+- **Visualization:** Power BI, Tableau, Excel (VBA, Power Query, Automate)  
+- **Databases:** SQL, MySQL, SQL Server, PostgreSQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **ETL & Big Data:** Power Query, Airflow (exposure), Microsoft Fabric (exposure), Hadoop, Spark  
+- **Version Control:** Git, GitHub
 
-Programming: Python, R, C
-Data Tools: Power BI, Excel (VBA, Macros, Power Query, Automate), Tableau
-Databases: SQL, MySQL, PostgreSQL, SQL Server
-Libraries: Pandas, NumPy, Scikit-Learn, TensorFlow, XGBoost, Matplotlib, Seaborn
-ETL & Automation: Airflow (exposure), Databricks (familiar), Microsoft Fabric (exposure)
-Version Control: Git, GitHub
-Big Data: Hadoop, Spark (exposure)
+---
 
-🎓 Education
+## 🎓 Education
+- **M.S., Information Systems & Technologies** — University of North Texas (2023–2025)  
+- **B.E., Computer Science & Engineering** — G.V.P. College of Engineering for Women (2019–2023)
 
-Master of Science – Information Systems and Technologies
-University of North Texas (2023 – 2025)
+---
 
-Bachelor of Engineering – Computer Science and Engineering
-G.V.P College of Engineering for Women, Visakhapatnam (2019 – 2023)
+## 🏅 Certifications
+- Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**  
+- **HackerRank SQL (Intermediate)**  
+- **PCAP: Python Programming Essentials** — Cisco & Python Institute  
+- **Microsoft Fabric Data Engineer Associate** *(in progress)*
 
-🏆 Certifications
+---
 
-Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-
-HackerRank SQL (Intermediate)
-
-PCAP: Programming Essentials in Python (Cisco & Python Institute)
-
-Microsoft Fabric Data Engineer Associate (in progress)
-
-🌱 Currently Learning
-
-Advanced Machine Learning (MLOps, Feature Pipelines)
-
-Cloud Data Platforms (Azure, Databricks, Snowflake)
-
-Generative AI for Data Analytics
-
-📫 Let’s Connect
-
-I’m always open to collaborating on data-driven projects or discussing new opportunities in data analytics, business intelligence, or AI-driven insights.
-
-📩 Email: vsanushak234@gmail.com
-
-🔗 LinkedIn: linkedin.com/in/venkata-sai-anusha-kommasani
-
-⭐ “I believe the best insights don’t just describe what happened — they explain why, and help predict what comes next.”
+⭐ *Turning complex data into clear stories that drive decisions.*
