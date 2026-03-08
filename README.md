@@ -4,7 +4,7 @@
 
 📍 Minnetonka, MN  
 📧 [vsanushak234@gmail.com](mailto:vsanushak234@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/venkata-sai-anusha-kommasani) • [GitHub](https://github.com/Anu779930)
+🔗 [GitHub](https://github.com/Anu779930)
 
 ---
 
