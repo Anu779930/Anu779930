@@ -9,12 +9,9 @@
 ---
 
 ## 👋 About Me  
-I’m an **AI-driven Data Analyst and aspiring AI Engineer** passionate about turning raw data into intelligent insights.  
-I combine my skills in **Python, SQL, Power BI, and Machine Learning** with emerging **Agentic AI systems** to automate business analytics and decision-making.  
-
-Currently, I’m exploring how **LLMs and AgentForce-style AI agents** can understand natural-language questions, analyze structured data, and generate actionable insights — bridging **data analytics, automation, and AI reasoning**.  
-
-💡 *"I don’t just analyze data — I make it think."*
+I am a Data Engineer and Analyst with hands-on experience in Python, SQL, Power BI, and ETL pipeline development. I enjoy working with complex datasets, building data pipelines, and creating dashboards that help teams make faster and better decisions.
+I have worked on projects ranging from real-time fraud detection pipelines to customer churn prediction models, and I hold Microsoft certifications in Power BI and Fabric Data Engineering. I am also exploring how machine learning and automation can improve data workflows and analytical processes.
+Currently looking for Data Analyst and Data Engineer roles where I can contribute from day one and keep growing.
 
 ---
 
