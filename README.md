@@ -1,6 +1,6 @@
 # 🌟 Venkata Sai Anusha Kommasani  
 
-**AI-Powered Data Analyst | Python | SQL | Power BI | Agentic AI | Machine Learning | LLM Automation**
+**Data Engineer & Analyst | Python | SQL | Power BI | ETL Pipelines | Machine Learning | Data Visualization**
 
 📍 Minnetonka, MN  
 📧 [vsanushak234@gmail.com](mailto:vsanushak234@gmail.com)  
