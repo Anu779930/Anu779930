@@ -1,120 +1,141 @@
-# 🌟 Venkata Sai Anusha Kommasani  
+# 🌟 Venkata Sai Anusha Kommasani
 
 **Data Engineer & Analyst | Python | SQL | Power BI | ETL Pipelines | Machine Learning | Data Visualization**
 
-📍 Minnetonka, MN  
-📧 [vsanushak234@gmail.com](mailto:vsanushak234@gmail.com)  
-🔗 [GitHub](https://github.com/Anu779930)
+📍 Rogers, MN
+📧 [vsanushak234@gmail.com](mailto:vsanushak234@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/venkata-sai-anusha-k-915047288) | [GitHub](https://github.com/Anu779930)
 
 ---
 
-## 👋 About Me  
-I am a Data Engineer and Analyst with hands-on experience in Python, SQL, Power BI, and ETL pipeline development. I enjoy working with complex datasets, building data pipelines, and creating dashboards that help teams make faster and better decisions.
-I have worked on projects ranging from real-time fraud detection pipelines to customer churn prediction models, and I hold Microsoft certifications in Power BI and Fabric Data Engineering. I am also exploring how machine learning and automation can improve data workflows and analytical processes.
-Currently looking for Data Analyst and Data Engineer roles where I can contribute from day one and keep growing.
+## 👋 About Me
+
+I am a Data Engineer and Analyst with hands-on experience in Python, SQL, Power BI, and ETL pipeline development. I enjoy working with complex datasets, building data pipelines, and creating dashboards that help teams make faster and better decisions. I have worked on projects ranging from real-time fraud detection pipelines to customer churn prediction models, and I hold Microsoft certifications in Power BI and Fabric Data Engineering. Currently looking for Data Analyst and Data Engineer roles where I can contribute from day one and keep growing.
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🤖 [AI Sales Insight Assistant](https://github.com/Anu779930/ai-sales-insight-assistant)  
-An **AI-powered conversational analytics assistant** that answers natural-language questions like *“Profit by region last year”* or *“Top 3 categories in 2017”* using Superstore sales data.  
-Built to simulate an **Agentic AI Data Analyst** that automates insight generation through natural language.
+### 🔍 [Real-Time Fraud Detection & BI Pipeline](https://github.com/Anu779930/fraud-detection-pipeline)
 
-#### 📈 Project Highlights  
-- Implemented **AI-style reasoning** to interpret user queries in plain English  
-- Supports **time-based context detection** (`last month`, `this year`, `2017`)  
-- Applies **state/category filters** automatically (e.g., CA → California)  
-- Groups and ranks results dynamically (e.g., *top 5 products*, *profit by region*)  
-- Generates **human-like formatted insights** directly from data  
-- Mimics **AgentForce AI copilot** logic — combining data analytics and AI query interpretation  
-- Designed for command-line interaction via **Typer-based AI chat interface**
+End-to-end **fraud detection pipeline** processing 284K+ transactions using Python, Airflow, and XGBoost, with a live monitoring dashboard built in Streamlit and Power BI.
 
-#### 🛠️ Tech & Skills Demonstrated  
-- **Python**: Core implementation and data handling  
-- **Pandas**: Query execution and aggregation logic  
-- **AI Reasoning Logic**: NLP-style question parsing and intent detection  
-- **Typer + Rich**: Command-line user interface with styled responses  
-- **Data Cleaning & ETL**: Automated column mapping and type parsing  
-- **Agentic AI Concept**: Context-aware question → insight conversion  
-- **Version Control**: Git, GitHub  
+#### 📈 Project Highlights
+- Built automated ingestion and processing pipeline handling 284K+ transactions using Apache Airflow
+- Applied XGBoost with SMOTE to handle class imbalance, achieving 95% fraud detection accuracy
+- Deployed real-time monitoring dashboard in Streamlit reducing manual analysis by 60%
+- Integrated Microsoft Fabric for scalable data storage and reporting
+
+#### 🛠️ Tech & Skills Demonstrated
+- **Python:** Pipeline orchestration, feature engineering, model training
+- **Apache Airflow:** Workflow automation and scheduling
+- **XGBoost + Scikit-learn:** Fraud classification with imbalanced data handling
+- **Power BI + Microsoft Fabric:** Real-time BI reporting
+- **Streamlit:** Live fraud monitoring dashboard
 
 ---
 
-### 📊 [Sales Performance Dashboard – Power BI](https://github.com/Anu779930/sales-performance-dashboard)  
-Interactive **Power BI dashboard** analyzing sales performance across regions, categories, and products.  
-Includes **SQL preprocessing** and **DAX measures** for KPIs.
+### 🤖 [AI-Driven Insights Agent](https://github.com/Anu779930/ai-driven-insight-assistant)
 
-#### 📈 Project Highlights  
-- KPI cards for **Total Sales, Total Profit, AOV, Profit Margin %**  
-- Trend analysis of **Sales over Time**  
-- **Profit by Category** and **Sales by Region** comparisons  
-- Top-10 products by sales (SQL + Power BI)  
-- Interactive filters (Year, Region, Category)  
+An **AI-powered analytics agent** that combines natural language query parsing with unsupervised machine learning to generate automated business insights from raw sales data.
 
-#### 🛠️ Tech & Skills Demonstrated  
-- **Power BI:** Data cleaning, visuals, DAX, KPI cards  
-- **SQL:** Aggregations, grouping, ranking ([`sales_queries.sql`](https://github.com/Anu779930/sales-performance-dashboard/blob/main/sql/sales_queries.sql))  
-- **DAX:** KPI calculations ([`dax_measures.md`](https://github.com/Anu779930/sales-performance-dashboard/blob/main/docs/dax_measures.md))  
-- **Data Storytelling:** Clear layout with slicers  
+#### 📈 Project Highlights
+- Built a GenAI system using OpenAI API (GPT-4o-mini) to generate prescriptive business insights from anomaly detection results, reducing manual analysis effort by 50%
+- Developed ingestion pipelines handling schema drift across 10+ formats, improving reliability by 40%
+- Integrated Isolation Forest anomaly detection and data quality scoring, increasing insight accuracy by 30%
+- Built a custom NLP query parsing engine to convert natural language questions into structured Pandas queries
 
-#### 📄 Documentation  
-[Download Sales_Performance_KPI_Dashboard_Documentation.docx](https://github.com/Anu779930/sales-performance-dashboard/blob/main/Sales_Performance_KPI_Dashboard_Documentation.docx)  
+#### 🛠️ Tech & Skills Demonstrated
+- **Python:** Core implementation and data handling
+- **OpenAI API (GPT-4o-mini):** Generative AI business insight generation
+- **Scikit-learn (Isolation Forest):** Unsupervised anomaly detection
+- **NLP Query Parsing:** Custom intent extraction and query engine
+- **Typer + Rich:** Command-line interface with styled responses
+- **Pandas:** Data wrangling and aggregation
 
 ---
 
-### 📉 [Telco Customer Churn Prediction – ML + Power BI](https://github.com/Anu779930/telco-churn-ml-bi)  
-End-to-end **Machine Learning + Business Intelligence** project predicting telecom customer churn.  
-Combines **Python modeling**, **SQL preprocessing**, and **Power BI storytelling**.
+### ☁️ [AWS Data Lake Pipeline](https://github.com/Anu779930/aws-data-lake-pipeline)
 
-#### 📈 Project Highlights  
-- Cleaned and transformed **7K + records** (Pandas, NumPy, SQL)  
-- Models: **Logistic Regression, Random Forest, XGBoost** (≈ 85 % accuracy)  
-- Churn drivers: **tenure, monthly charges, contract type**  
-- Automated ETL + scoring pipeline  
-- Power BI dashboard for churn/retention tracking  
+Serverless **end-to-end data pipeline** built entirely on AWS, automating ingestion, transformation, and analytics-ready loading with real-time monitoring.
 
-#### 🛠️ Tech & Skills Demonstrated  
-- **Python:** Pandas, NumPy, Scikit-learn, XGBoost  
-- **Power BI:** Churn segmentation visuals, KPIs, slicers  
-- **SQL:** Joins, filtering, feature prep  
-- **Evaluation:** Confusion Matrix, ROC-AUC, Precision/Recall  
-- **MLOps (basic):** Reproducible pipelines, version control  
+#### 📈 Project Highlights
+- Automated CSV/JSON ingestion into Amazon S3 with 100% pipeline coverage
+- Built AWS Glue ETL jobs to filter, transform, and load clean data into Amazon Redshift
+- Configured CloudWatch monitoring to detect pipeline failures in real time
+- Implemented IAM role-based access controls for secure data handling
 
-#### 📄 Documentation  
-[Download Telco_Churn_Prediction_Retention_Documentation.docx](https://github.com/Anu779930/telco-churn-ml-bi/blob/main/Telco_Churn_Prediction_Retention_Documentation.docx)  
+#### 🛠️ Tech & Skills Demonstrated
+- **Python + boto3:** Pipeline scripting and AWS service interaction
+- **AWS S3, Glue, Redshift:** Full serverless data lake architecture
+- **CloudWatch:** Pipeline health monitoring and alerting
+- **SQL:** Redshift queries and data quality checks
+- **IAM:** Secure access control
 
 ---
 
-## 🧠 Technical Skills  
-- **Programming:** Python, R, C  
-- **Visualization:** Power BI, Tableau, Excel (VBA, Power Query, Automate)  
-- **Databases:** SQL, MySQL, SQL Server, PostgreSQL  
-- **AI & ML:** XGBoost, Random Forest, Scikit-learn, Isolation Forest, NLP Query Parsing, OpenAI API
-- **ETL & Big Data:** Power Query, Apache Airflow, Microsoft Fabric, Hadoop, Spark  
-- **Version Control:** Git, GitHub  
+### 📊 [Sales Performance Dashboard – Power BI](https://github.com/Anu779930/sales-performance-dashboard)
+
+Interactive **Power BI dashboard** analyzing sales performance across regions, categories, and products. Includes **SQL preprocessing** and **DAX measures** for KPIs.
+
+#### 📈 Project Highlights
+- KPI cards for Total Sales, Total Profit, AOV, Profit Margin %
+- Trend analysis of Sales over Time
+- Profit by Category and Sales by Region comparisons
+- Top-10 products by sales (SQL + Power BI)
+- Interactive filters (Year, Region, Category)
+
+#### 🛠️ Tech & Skills Demonstrated
+- **Power BI:** Data cleaning, visuals, DAX, KPI cards
+- **SQL:** Aggregations, grouping, ranking
+- **DAX:** KPI calculations
+- **Data Storytelling:** Clear layout with slicers
 
 ---
 
-## 🎓 Education  
-- **M.S., Information Systems & Technologies** — University of North Texas (2023 – 2025)  
-- **B.E., Computer Science & Engineering** — G.V.P. College of Engineering for Women (2019 – 2023)  
+### 📉 [Telco Customer Churn Prediction – ML + Power BI](https://github.com/Anu779930/telco-churn-ml-bi)
+
+End-to-end **Machine Learning + Business Intelligence** project predicting telecom customer churn. Combines **Python modeling**, **SQL preprocessing**, and **Power BI storytelling**.
+
+#### 📈 Project Highlights
+- Cleaned and transformed 7K+ records (Pandas, NumPy, SQL)
+- Models: Logistic Regression, Random Forest, XGBoost achieving 87% accuracy
+- Churn drivers: tenure, monthly charges, contract type
+- Automated ETL and scoring pipeline
+- Power BI dashboard for churn and retention tracking
+
+#### 🛠️ Tech & Skills Demonstrated
+- **Python:** Pandas, NumPy, Scikit-learn, XGBoost
+- **Power BI:** Churn segmentation visuals, KPIs, slicers
+- **SQL:** Joins, filtering, feature prep
+- **Evaluation:** Confusion Matrix, ROC-AUC, Precision/Recall
 
 ---
 
-## 🏅 Certifications  
-- 🧾 Microsoft Certified: Power BI Data Analyst Associate (PL-300)  
-- 🧾 HackerRank SQL (Intermediate)  
-- 🧾 PCAP: Python Programming Essentials — Cisco & Python Institute  
-- 🧾 Microsoft Fabric Data Engineer Associate  
+## 🧠 Technical Skills
+
+- **Languages:** Python, SQL
+- **BI & Visualization:** Power BI (DAX, Power Query), Microsoft Excel, Tableau, Streamlit
+- **Data Analysis:** Data Cleaning, EDA, Reporting, Dashboarding
+- **Data Engineering:** ETL/ELT Pipelines, Apache Airflow, Microsoft Fabric, Azure Data Factory
+- **Databases:** PostgreSQL, SQL Server, MySQL
+- **ML & AI:** XGBoost, Random Forest, Scikit-learn, Isolation Forest, NLP Query Parsing, OpenAI API
 
 ---
 
-## 🔬 Current Focus  
-- 🤖 Building **AI Data Agents** for analytics automation  
-- 🧩 Exploring **AgentForce AI** and **LangChain** for LLM-driven workflows  
-- ⚙️ Creating **AI + Data Analytics projects** that merge business intelligence and automation  
+## 🎓 Education
+
+- **M.S., Information Systems & Technologies** — University of North Texas (2023 – 2025)
+- **B.E., Computer Science & Engineering** — G.V.P. College of Engineering for Women (2019 – 2023)
 
 ---
 
-⭐ *Bridging analytics and intelligence — from data dashboards to AI-powered decisions.*
+## 🏅 Certifications
+
+- 🧾 Microsoft Certified: Power BI Data Analyst Associate (PL-300) – Valid through June 2027
+- 🧾 Microsoft Certified: Fabric Data Engineer Associate – Valid through June 2027
+- 🧾 HackerRank SQL (Advanced)
+
+---
+
+⭐ Bridging analytics and intelligence — from data pipelines to AI-powered decisions.
