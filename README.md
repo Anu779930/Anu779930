@@ -99,7 +99,7 @@ End-to-end **Machine Learning + Business Intelligence** project predicting telec
 
 #### 📈 Project Highlights
 - Cleaned and transformed 7K+ records (Pandas, NumPy, SQL)
-- Models: Logistic Regression, Random Forest, XGBoost achieving 87% accuracy
+- Models: Logistic Regression, Random Forest, XGBoost achieving 79% accuracy and 83% ROC-AUC
 - Churn drivers: tenure, monthly charges, contract type
 - Automated ETL and scoring pipeline
 - Power BI dashboard for churn and retention tracking
