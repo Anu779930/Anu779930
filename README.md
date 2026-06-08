@@ -90,7 +90,7 @@ Combines **Python modeling**, **SQL preprocessing**, and **Power BI storytelling
 - **Programming:** Python, R, C  
 - **Visualization:** Power BI, Tableau, Excel (VBA, Power Query, Automate)  
 - **Databases:** SQL, MySQL, SQL Server, PostgreSQL  
-- **AI & ML:** Pandas, NumPy, Scikit-learn, XGBoost, LLM (learning), LangChain (basic)  
+- **AI & ML:** XGBoost, Random Forest, Scikit-learn, Isolation Forest, NLP Query Parsing, OpenAI API
 - **ETL & Big Data:** Power Query, Apache Airflow, Microsoft Fabric, Hadoop, Spark  
 - **Version Control:** Git, GitHub  
 
